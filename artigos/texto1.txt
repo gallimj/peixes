@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<artigo>
+
+<info>
+	<autor>Marcio</autor>
+	<data>22-04-2009</data>
+	<titulo>Titulo</titulo>
+</info>
+
+<conteudo>
+<![CDATA[
+
+
+Coloque o texto aqui. Pode HTML basico - <p></p> <h1></h1>, <h2></h2> etc...
+
+]]>
+</conteudo>
+
+</artigo>
+
